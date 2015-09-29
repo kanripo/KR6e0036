@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 等目菩薩所問三昧經
+#+DATE: 2015-09-28 22:56:00.762556
+#+PROPERTY: JUAN 0
